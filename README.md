@@ -64,13 +64,11 @@ each cities regarding data of changing AQI from 2019 to 2020 for not cluttering
 the plot.
 
 
-## Our project snapshots
-
-
 This is our Air Quality Index Website.
+
+https://gaurav-30.github.io/Boomerz/
 
 Open this link, for the visualization.
 
-We have used github page to piblish our result as GitHub notebook doesn't support plotly graphs.
+**Note:** We have used github page to publish our result as GitHub notebook doesn't support plotly graphs.
 
-https://gaurav-30.github.io/Boomerz/
