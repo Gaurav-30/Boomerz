@@ -1,6 +1,6 @@
 # Air Quality Index
 
-## A One Health Approach NASA SPace Apps Challenge
+## A One Health Approach NASA Space Apps Challenge
 
 In this approach a task was to use earth science and health science to study the effect of 
 air pollution. 
