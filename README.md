@@ -70,5 +70,5 @@ https://gaurav-30.github.io/Boomerz/
 
 Open this link, for the visualization.
 
-**Note:** We have used github page to publish our result as GitHub notebook doesn't support plotly graphs.
+**Note:** We have used github page to publish our result as GitHub notebook doesn't support plotly, Bar_Chart_Race graphs.
 
