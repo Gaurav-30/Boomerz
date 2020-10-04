@@ -38,7 +38,7 @@ AQI Levels for 2015: 148 US AQI
 
 AQI Level after lockdown (2020): 80 US AQI
 
-<img src = "aqi-ind.png"> 
+<img src = "aqi bucket.png"> 
 
 Therefore there is a significant improvement in air quality after lockdown.
 
