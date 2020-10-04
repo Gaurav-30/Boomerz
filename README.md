@@ -1,5 +1,12 @@
 # Air Quality Index
 
+An air quality index (AQI) is used by government agencies to communicate to the public how polluted the air currently
+is or how polluted it is forecast to become. Public health risks increase as the AQI rises. Different countries have
+their own air quality indices, corresponding to different national air quality standards.
+Some of these are the Air Quality Health Index (Canada), the Air Pollution Index (Malaysia),
+and the Pollutant Standards Index (Singapore).
+
+
 ## A One Health Approach NASA Space Apps Challenge
 
 In this approach a task was to use earth science and health science to study the effect of 
@@ -31,6 +38,8 @@ AQI Levels for 2015: 148 US AQI
 
 AQI Level after lockdown (2020): 80 US AQI
 
+<img src = "aqi-ind.png"> 
+
 Therefore there is a significant improvement in air quality after lockdown.
 
 ### Contents of data
@@ -55,6 +64,7 @@ each cities regarding data of changing AQI from 2019 to 2020 for not cluttering
 the plot.
 
 
+## Our project snapshots
 
 
 This is our Air Quality Index Website.
